@@ -180,7 +180,7 @@ background-color: #FFB6C1;
     font-weight: 400;
     font-size: 22px;
     line-height: 28px;
-    background-color: #FFB6C1;
+    background-color: #aaa3a4;
     color: black;
     transform: translateY(101%);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2,1);
